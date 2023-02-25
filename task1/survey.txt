@@ -1,0 +1,4 @@
+Name: leena
+Age: 20
+Likes programming: yes
+Favorite language: c
